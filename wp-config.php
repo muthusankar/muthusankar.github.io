@@ -39,6 +39,8 @@ define( 'DB_COLLATE', '' );
 
 define('FS_METHOD', 'direct');
 
+define( 'UPLOADS', 'wp-content/uploads' );
+
 /**#@+
  * Authentication Unique Keys and Salts.
  *
